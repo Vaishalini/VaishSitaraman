@@ -8,7 +8,7 @@ body {
   height: 100%;
   font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: white;
-  background-color: #00FFFF ;
+  background-color: black ;
 }
 html {
   width: 100%;
@@ -114,7 +114,7 @@ a:focus {
   .navbar-custom.top-nav-collapse {
     padding: 0;
     background: black;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    border-bottom: 1px solid rgba(0, 255, 255, 0.3);
   }
 }
 .intro {
